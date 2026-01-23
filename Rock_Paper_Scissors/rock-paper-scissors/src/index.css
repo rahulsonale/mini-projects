@@ -1,0 +1,11 @@
+.heading {
+  text-align: center;
+  color: #250a60;
+  font-size: 60px;
+  font-family: Georgia;
+  text-decoration: dotted;
+}
+
+body {
+  background-image: linear-gradient(to right, #bbcb64, #f9dfdf, #cf0f0f);
+}

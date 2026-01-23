@@ -1,0 +1,10 @@
+.choice-container {
+  display: flex;
+  justify-content: center;
+  gap: 800px;
+  margin-top: 30px;
+  font-weight: bolder;
+  font-family: georgia;
+  font-size: 24px;
+  color: #250a60;
+}
