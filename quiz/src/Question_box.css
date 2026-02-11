@@ -1,0 +1,51 @@
+.main-container {
+  border: 2px solid black;
+  max-width: 700px;
+  width: 90%;
+  margin: 50px auto;
+  border-radius: 14px;
+  padding: 40px;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.Ques_number {
+  font-size: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(9, 16, 88);
+}
+
+.Question {
+  font-size: 40px;
+}
+
+.options {
+  display: flex;
+  flex-direction: column; /* options stacked vertically */
+  align-items: center; /* center whole option block */
+  gap: 15px;
+}
+
+.option_values {
+  display: flex;
+  align-items: center; /* vertical alignment */
+  gap: 10px; /* space between radio & text */
+  width: 60%;
+  padding: 10px 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.option_values:hover {
+  background-color: #e6e6ff;
+}
+
+.submit_button {
+  margin-top: 20px;
+  padding: 10px;
+  width: 100px;
+  border-radius: 14px;
+  font-size: 20px;
+  margin-right: 10px;
+}
