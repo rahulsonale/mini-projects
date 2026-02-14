@@ -14,3 +14,6 @@ UI development, and component-based architecture.
 
 ### 📝 Forms App
 📝 [Forms App](https://formsusing-react.netlify.app/)
+
+### Quiz App
+[Quiz App](https://quiz-random-ques.netlify.app/)
